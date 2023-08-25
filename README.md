@@ -1,4 +1,4 @@
-## COLLEGE RULES AND REGULATIONS
+## PSG Tech COLLEGE RULES AND REGULATIONS
 
 ### General
 - College works from Monday to Friday and on second, fourth and fifth Saturdays. Working Hours: 08.30 a.m. – 04.45 p.m
