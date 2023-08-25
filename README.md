@@ -1,6 +1,3 @@
-# psg-tech-demo
-Demo repo
-
 ## COLLEGE RULES AND REGULATIONS
 
 ### General
@@ -19,3 +16,27 @@ Demo repo
 - In case of male students, the dress code will be - properly tucked in shirt and pant. They should wear shoes.
 - In case of female students, the dress code will be - salwar with waist coat.
 - Every student should wear his / her Identity Card along with tag inside the College campus.
+
+### Personal Conduct
+- Usage of cell phone/camera and other recording devices inside the college campus are not permitted during class hours. However, students are permitted to use cell phone during lunchbreak.
+- Students are not allowed to celebrate birthday and any form of parties within the college premises and hostels.
+
+### Students Attendance and Leave 
+- Attendance shall be calculated on hourly basis i.e. in terms of each lecture period.
+- Attendance is compulsory for the regular classes, internal tests and examinations
+- Students are directed to maintain an attendance of 75% in each subject during each test period.
+
+### Instructions to Hostel Residents 
+- Hostellers are not allowed to entertain any guest/ visitor in their rooms at any time
+- Hostellers are not allowed for any outings / trips without the prior permission of the Warden.
+- student is allowed to stay in the hostel during college hours. However, in case of illness, a student may be allowed to take rest in the hostel.
+- If a student falls sick in the hostel, Warden should be informed immediately.
+- Parents/guardians visiting hours during weekdays in the morning is 6.00am to 8.00 am and in the evening it is from 5.00 pm to 7.00 pm.
+- During the weekends the parents/guardians can visit from 7.00am to 7.00 pm.
+- Attendance will be taken everyday from 9.00pm to 9.30pm. Students will be marked present only if they are physically present, so they are requested to be in their respective rooms during this period.
+
+### FOOD COURT
+- The canteen functions from 8.30 am to 6.30 pm on all working days.
+
+### MEDICAL CENTRE
+- Medical Centre is available in the food court block. Dr.Gangatharan is available for consultation/Emergency Treatment from 8.00 am to 2.00 pm on working days.
